@@ -80,6 +80,7 @@ footer .links {
   flex-direction: row;
   gap: 30px;
   text-align: center;
+ 
 }
 
 footer h2 {
@@ -90,7 +91,8 @@ footer h2 {
 
 footer h3 {
   letter-spacing: 2px;
-  font-weight: 600;
+  font-weight: 400;
+  color:grey;
 }
 
 /* Other styles */
