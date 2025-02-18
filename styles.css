@@ -29,7 +29,7 @@ body {
   letter-spacing: 2px;
 }
 
-.container h2:hover {
+ h2:hover {
   color: rgb(254, 6, 6);
 }
 
