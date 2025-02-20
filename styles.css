@@ -25,7 +25,7 @@ body {
 .container h2 {
   margin-top: 20px;
   font-weight: 600;
-  color: rgb(0, 0, 0); /* Moved h2 color here */
+  color: rgb(0, 0, 0); 
   font-size: 30px;
   letter-spacing: 2px;
 }
@@ -80,7 +80,7 @@ nav a {
   letter-spacing: 1px;
   margin-top: 15px;
   font-size: 13px;
-  color:black;
+  color: #000!important;
  }
 
  .container-content {
@@ -204,10 +204,6 @@ footer h3 {
     border-bottom: 5px rgb(255, 0, 0) solid;
     line-height: 1.5;
   }
-  
-
-   /* container */
-
    
 
 
